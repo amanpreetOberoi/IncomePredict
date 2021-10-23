@@ -1,0 +1,86 @@
+2021-10-17/10:55:37		Reading Data Started!!
+2021-10-17/10:55:37		Reading Data Completed!!
+2021-10-17/10:55:38		Seperating independent and dependent features statrted!!
+2021-10-17/10:55:38		Data Splitting completed!!
+2021-10-22/07:19:28		Reading Data Started!!
+2021-10-22/07:19:28		Reading Data Completed!!
+2021-10-22/07:19:29		Seperating independent and dependent features statrted!!
+2021-10-22/07:19:29		Data Splitting completed!!
+2021-10-22/07:21:16		Reading Data Started!!
+2021-10-22/07:21:16		Reading Data Completed!!
+2021-10-22/07:21:17		Seperating independent and dependent features statrted!!
+2021-10-22/07:21:17		Data Splitting completed!!
+2021-10-22/07:22:55		Reading Data Started!!
+2021-10-22/07:22:55		Reading Data Completed!!
+2021-10-22/07:23:43		Reading Data Started!!
+2021-10-22/07:23:43		Reading Data Completed!!
+2021-10-22/07:23:51		Seperating independent and dependent features statrted!!
+2021-10-22/07:23:51		Data Splitting completed!!
+2021-10-22/07:24:52		Reading Data Started!!
+2021-10-22/07:24:52		Reading Data Completed!!
+2021-10-22/07:25:40		Reading Data Started!!
+2021-10-22/07:25:40		Reading Data Completed!!
+2021-10-22/07:29:18		Reading Data Started!!
+2021-10-22/07:29:18		Reading Data Completed!!
+2021-10-22/07:32:45		Reading Data Started!!
+2021-10-22/07:32:45		Reading Data Completed!!
+2021-10-22/07:33:33		Reading Data Started!!
+2021-10-22/07:33:34		Reading Data Completed!!
+2021-10-22/07:34:50		Reading Data Started!!
+2021-10-22/07:34:50		Reading Data Completed!!
+2021-10-22/07:35:22		Reading Data Started!!
+2021-10-22/07:35:22		Reading Data Completed!!
+2021-10-22/07:35:54		Reading Data Started!!
+2021-10-22/07:35:54		Reading Data Completed!!
+2021-10-22/07:36:38		Reading Data Started!!
+2021-10-22/07:36:38		Reading Data Completed!!
+2021-10-22/07:38:53		Reading Data Started!!
+2021-10-22/07:38:53		Reading Data Completed!!
+2021-10-22/07:39:05		Reading Data Started!!
+2021-10-22/07:39:05		Reading Data Completed!!
+2021-10-22/07:39:06		Seperating independent and dependent features statrted!!
+2021-10-22/07:39:06		Data Splitting completed!!
+2021-10-22/07:48:49		Reading Data Started!!
+2021-10-22/07:48:49		Reading Data Completed!!
+2021-10-22/07:49:02		Reading Data Started!!
+2021-10-22/07:49:02		Reading Data Completed!!
+2021-10-22/07:49:04		Seperating independent and dependent features statrted!!
+2021-10-22/07:49:04		Data Splitting completed!!
+2021-10-22/11:54:37		Reading Data Started!!
+2021-10-22/11:54:37		Reading Data Completed!!
+2021-10-22/11:56:18		Reading Data Started!!
+2021-10-22/11:56:18		Reading Data Completed!!
+2021-10-22/11:57:54		Reading Data Started!!
+2021-10-22/11:57:55		Reading Data Completed!!
+2021-10-22/11:57:56		Seperating independent and dependent features statrted!!
+2021-10-22/11:57:56		Data Splitting completed!!
+2021-10-22/12:19:01		Reading Data Started!!
+2021-10-22/12:19:01		Reading Data Completed!!
+2021-10-22/12:22:05		Reading Data Started!!
+2021-10-22/12:22:05		Reading Data Completed!!
+2021-10-22/12:22:16		Reading Data Started!!
+2021-10-22/12:22:16		Reading Data Completed!!
+2021-10-22/12:23:27		Reading Data Started!!
+2021-10-22/12:23:27		Reading Data Completed!!
+2021-10-22/12:25:14		Reading Data Started!!
+2021-10-22/12:25:14		Reading Data Completed!!
+2021-10-22/12:26:45		Reading Data Started!!
+2021-10-22/12:26:45		Reading Data Completed!!
+2021-10-22/12:34:40		Reading Data Started!!
+2021-10-22/12:34:40		Reading Data Completed!!
+2021-10-22/12:35:46		Reading Data Started!!
+2021-10-22/12:35:46		Reading Data Completed!!
+2021-10-22/12:36:37		Reading Data Started!!
+2021-10-22/12:36:37		Reading Data Completed!!
+2021-10-22/12:36:39		Seperating independent and dependent features statrted!!
+2021-10-22/12:36:39		Data Splitting completed!!
+2021-10-22/13:13:04		Reading Data Started!!
+2021-10-22/13:13:04		Reading Data Completed!!
+2021-10-22/13:14:28		Reading Data Started!!
+2021-10-22/13:14:28		Reading Data Completed!!
+2021-10-22/13:14:30		Seperating independent and dependent features statrted!!
+2021-10-22/13:14:30		Data Splitting completed!!
+2021-10-22/17:31:17		Reading Data Started!!
+2021-10-22/17:31:17		Reading Data Completed!!
+2021-10-22/17:31:19		Seperating independent and dependent features statrted!!
+2021-10-22/17:31:19		Data Splitting completed!!

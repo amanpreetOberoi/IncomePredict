@@ -1,0 +1,199 @@
+
+2021-10-17/10:55:38		Entered in best params for logistic regression function !!
+2021-10-17/10:55:45		Exiting best params for logistic regression function !!
+2021-10-17/10:55:45		Entered in best params for xg boost function !!
+2021-10-17/10:56:12		Exiting best params for xgboost classifier function !!
+2021-10-17/10:56:12		Entered in best params for random forest function !!
+2021-10-17/11:01:49		Exiting best params for random forest classifier function !!
+2021-10-17/11:01:52		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-10-17/11:01:55		Naive Bayes best params: {'var_smoothing': 0.05}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-10-17/11:01:55		Entered the save_model method of the File_Operation class
+2021-10-17/11:01:55		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
+2021-10-17/11:01:56		Entered the load_model method of the File_Operation class
+2021-10-17/11:01:56		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-17/17:42:26		Entered the load_model method of the File_Operation class
+2021-10-17/17:42:26		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-17/17:43:51		Entered the load_model method of the File_Operation class
+2021-10-17/17:43:51		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-17/18:27:11		Entered the load_model method of the File_Operation class
+2021-10-17/18:27:11		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-17/18:27:14		Entered the load_model method of the File_Operation class
+2021-10-17/18:27:14		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-17/18:27:20		Entered the load_model method of the File_Operation class
+2021-10-17/18:27:20		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-17/18:27:21		Entered the load_model method of the File_Operation class
+2021-10-17/18:27:21		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-17/18:27:40		Entered the load_model method of the File_Operation class
+2021-10-17/18:27:40		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-17/18:28:54		Entered the load_model method of the File_Operation class
+2021-10-17/18:28:54		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-17/18:29:14		Entered the load_model method of the File_Operation class
+2021-10-17/18:29:14		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-17/20:50:59		Entered the load_model method of the File_Operation class
+2021-10-17/20:50:59		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-17/20:51:04		Entered the load_model method of the File_Operation class
+2021-10-17/20:51:04		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-18/09:16:58		Entered the load_model method of the File_Operation class
+2021-10-18/09:16:58		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-18/09:17:56		Entered the load_model method of the File_Operation class
+2021-10-18/09:17:56		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-19/10:32:53		Entered the load_model method of the File_Operation class
+2021-10-19/10:32:53		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-19/10:34:05		Entered the load_model method of the File_Operation class
+2021-10-19/10:34:05		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-19/10:35:24		Entered the load_model method of the File_Operation class
+2021-10-19/10:35:24		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-19/10:35:31		Entered the load_model method of the File_Operation class
+2021-10-19/10:35:31		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-19/10:35:52		Entered the load_model method of the File_Operation class
+2021-10-19/10:35:52		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-19/10:46:19		Entered the load_model method of the File_Operation class
+2021-10-19/10:46:19		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-19/10:46:23		Entered the load_model method of the File_Operation class
+2021-10-19/10:46:23		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-19/10:53:07		Entered the load_model method of the File_Operation class
+2021-10-19/10:53:07		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-19/10:53:13		Entered the load_model method of the File_Operation class
+2021-10-19/10:53:13		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-19/11:05:26		Entered the load_model method of the File_Operation class
+2021-10-19/11:05:26		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-19/11:05:29		Entered the load_model method of the File_Operation class
+2021-10-19/11:05:29		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-20/23:14:10		Entered the load_model method of the File_Operation class
+2021-10-20/23:14:10		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-20/23:14:13		Entered the load_model method of the File_Operation class
+2021-10-20/23:14:13		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-20/23:14:15		Entered the load_model method of the File_Operation class
+2021-10-20/23:14:15		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-21/00:42:04		Entered the load_model method of the File_Operation class
+2021-10-21/00:42:04		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-21/00:56:03		Entered the load_model method of the File_Operation class
+2021-10-21/00:56:03		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-21/01:21:53		Entered the load_model method of the File_Operation class
+2021-10-21/01:21:53		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-21/01:21:54		Entered the load_model method of the File_Operation class
+2021-10-21/01:21:54		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-21/10:14:14		Entered the load_model method of the File_Operation class
+2021-10-21/10:14:14		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-21/10:28:06		Entered the load_model method of the File_Operation class
+2021-10-21/10:28:06		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-21/10:28:08		Entered the load_model method of the File_Operation class
+2021-10-21/10:28:08		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-21/10:28:11		Entered the load_model method of the File_Operation class
+2021-10-21/10:28:11		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-21/10:28:12		Entered the load_model method of the File_Operation class
+2021-10-21/10:28:12		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/07:19:29		Entered in best params for logistic regression function !!
+2021-10-22/07:19:37		Exiting best params for logistic regression function !!
+2021-10-22/07:19:37		Entered in best params for xg boost function !!
+2021-10-22/07:21:17		Entered in best params for logistic regression function !!
+2021-10-22/07:21:24		Exiting best params for logistic regression function !!
+2021-10-22/07:21:24		Entered in best params for xg boost function !!
+2021-10-22/07:23:51		Entered in best params for logistic regression function !!
+2021-10-22/07:24:00		Exiting best params for logistic regression function !!
+2021-10-22/07:24:00		Entered in best params for xg boost function !!
+2021-10-22/07:39:06		Entered in best params for logistic regression function !!
+2021-10-22/07:39:16		Exiting best params for logistic regression function !!
+2021-10-22/07:39:16		Entered in best params for xg boost function !!
+2021-10-22/07:39:33		Exiting best params for xgboost classifier function !!
+2021-10-22/07:39:33		Entered in best params for random forest function !!
+2021-10-22/07:46:43		Exiting best params for random forest classifier function !!
+2021-10-22/07:46:47		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-10-22/07:46:50		Naive Bayes best params: {'var_smoothing': 0.05}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-10-22/07:46:50		Entered the save_model method of the File_Operation class
+2021-10-22/07:46:50		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
+2021-10-22/07:49:04		Entered in best params for logistic regression function !!
+2021-10-22/07:49:14		Exiting best params for logistic regression function !!
+2021-10-22/07:49:14		Entered in best params for xg boost function !!
+2021-10-22/07:49:33		Exiting best params for xgboost classifier function !!
+2021-10-22/07:49:33		Entered in best params for random forest function !!
+2021-10-22/07:53:56		Exiting best params for random forest classifier function !!
+2021-10-22/07:54:00		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-10-22/07:54:02		Naive Bayes best params: {'var_smoothing': 0.05}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-10-22/07:54:02		Entered the save_model method of the File_Operation class
+2021-10-22/07:54:02		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
+2021-10-22/11:57:56		Entered in best params for logistic regression function !!
+2021-10-22/11:58:02		Exiting best params for logistic regression function !!
+2021-10-22/11:58:02		Entered in best params for xg boost function !!
+2021-10-22/11:58:20		Exiting best params for xgboost classifier function !!
+2021-10-22/11:58:20		Entered in best params for random forest function !!
+2021-10-22/12:36:39		Entered in best params for logistic regression function !!
+2021-10-22/12:36:45		Exiting best params for logistic regression function !!
+2021-10-22/12:36:45		Entered in best params for xg boost function !!
+2021-10-22/12:37:01		Exiting best params for xgboost classifier function !!
+2021-10-22/12:37:01		Entered in best params for random forest function !!
+2021-10-22/12:41:02		Exiting best params for random forest classifier function !!
+2021-10-22/12:41:06		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-10-22/12:41:08		Naive Bayes best params: {'var_smoothing': 0.001}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-10-22/12:41:08		Entered the save_model method of the File_Operation class
+2021-10-22/12:41:08		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
+2021-10-22/13:14:30		Entered in best params for logistic regression function !!
+2021-10-22/13:14:38		Exiting best params for logistic regression function !!
+2021-10-22/13:14:38		Entered in best params for xg boost function !!
+2021-10-22/13:14:54		Exiting best params for xgboost classifier function !!
+2021-10-22/13:14:54		Entered in best params for random forest function !!
+2021-10-22/13:18:52		Exiting best params for random forest classifier function !!
+2021-10-22/13:18:56		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-10-22/13:18:58		Naive Bayes best params: {'var_smoothing': 0.001}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-10-22/13:18:58		Entered the save_model method of the File_Operation class
+2021-10-22/13:18:58		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
+2021-10-22/14:37:34		Entered the load_model method of the File_Operation class
+2021-10-22/14:37:34		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/14:38:09		Entered the load_model method of the File_Operation class
+2021-10-22/14:38:09		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/14:39:42		Entered the load_model method of the File_Operation class
+2021-10-22/14:39:42		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/14:43:09		Entered the load_model method of the File_Operation class
+2021-10-22/14:43:09		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/14:48:07		Entered the load_model method of the File_Operation class
+2021-10-22/14:48:07		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/15:02:11		Entered the load_model method of the File_Operation class
+2021-10-22/15:02:11		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/15:03:59		Entered the load_model method of the File_Operation class
+2021-10-22/15:03:59		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/15:04:52		Entered the load_model method of the File_Operation class
+2021-10-22/15:04:52		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/15:06:46		Entered the load_model method of the File_Operation class
+2021-10-22/15:06:46		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/15:09:26		Entered the load_model method of the File_Operation class
+2021-10-22/15:09:26		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/15:10:28		Entered the load_model method of the File_Operation class
+2021-10-22/15:10:28		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/15:10:46		Entered the load_model method of the File_Operation class
+2021-10-22/15:10:46		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/15:11:26		Entered the load_model method of the File_Operation class
+2021-10-22/15:11:26		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/15:12:50		Entered the load_model method of the File_Operation class
+2021-10-22/15:12:50		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/15:29:56		Entered the load_model method of the File_Operation class
+2021-10-22/15:29:56		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/16:23:28		Entered the load_model method of the File_Operation class
+2021-10-22/16:23:28		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/16:26:50		Entered the load_model method of the File_Operation class
+2021-10-22/16:26:50		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/16:33:04		Entered the load_model method of the File_Operation class
+2021-10-22/16:33:04		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/16:35:05		Entered the load_model method of the File_Operation class
+2021-10-22/16:35:05		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/17:31:19		Entered in best params for logistic regression function !!
+2021-10-22/17:31:28		Exiting best params for logistic regression function !!
+2021-10-22/17:31:28		Entered in best params for xg boost function !!
+2021-10-22/17:32:06		Exiting best params for xgboost classifier function !!
+2021-10-22/17:32:06		Entered in best params for random forest function !!
+2021-10-22/17:36:45		Exiting best params for random forest classifier function !!
+2021-10-22/17:36:49		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-10-22/17:36:52		Naive Bayes best params: {'var_smoothing': 0.001}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2021-10-22/17:36:52		Entered the save_model method of the File_Operation class
+2021-10-22/17:36:52		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
+2021-10-22/17:58:45		Entered the load_model method of the File_Operation class
+2021-10-22/17:58:45		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/18:07:32		Entered the load_model method of the File_Operation class
+2021-10-22/18:07:32		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/18:08:33		Entered the load_model method of the File_Operation class
+2021-10-22/18:08:33		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-22/18:21:45		Entered the load_model method of the File_Operation class
+2021-10-22/18:21:45		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-23/12:23:47		Entered the load_model method of the File_Operation class
+2021-10-23/12:23:47		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2021-10-23/12:25:04		Entered the load_model method of the File_Operation class
+2021-10-23/12:25:04		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class

@@ -1,0 +1,157 @@
+<html>
+<body>
+    <h3>Income Prediction Form</h3>
+
+<div>
+  <form action="/predict" method="POST">
+    <label>Age</label>
+    <input type="text" name="age">
+    <br>
+    <label>Education</label>
+    <select name="education">
+      <option value="0">10th</option>
+      <option value="1">11th</option>
+      <option value="2">12th</option>
+      <option value="3">1st-4th</option>
+      <option value="4">5th-6th</option>
+      <option value="5">7th-8th</option>
+      <option value="6">9th</option>
+      <option value="7">Assoc-acdm</option>
+      <option value="8">Assoc-voc</option>
+      <option value="9">Bachelors</option>
+      <option value="10">Doctorate</option>
+      <option value="11">HS-grad</option>
+      <option value="12">Masters</option>
+      <option value="13">Preschool</option>
+      <option value="14">Prof-school</option>
+      <option value="15">16 - Some-college</option>
+      </select>
+    <br>
+      <label>Capital Gain </label>
+    <input type="text"  name="capital_gain">btw:[0-99999]
+    <br>
+    <label>Capital Loss </label>
+    <input type="text" name="capital_loss">btw:[0-4356]
+    <br>
+    <label>Hours per Week </label>
+    <input type="text"  name="hours_per_week">btw:[1-99]
+     <br>
+    <label>Working Class</label>
+    <select name="workclass">
+      <option value="Fedral_gov">Federal_gov</option>
+      <option value="Local_gov">Local_gov</option>
+      <option value="Never_worked">Never_worked</option>
+      <option value="Private">Private</option>
+      <option value="Self_emp_inc">Self_emp_inc</option>
+      <option value="Self-emp-not-inc">Self_emp_not_inc</option>
+      <option value="State_gov">State_gov</option>
+      <option value="Without_pay">Without_pay</option>
+    </select>
+    <br>
+    </select>
+    <br>
+    <label>Marital Status</label>
+    <select name="marital_status">
+      <option value="Married_AF_spouse">Married_AF_spouse</option>
+      <option value="Married_civ_spouse">Married_civ_spouse</option>
+      <option value="Married_spouse_absent">Married_spouse_absent</option>
+      <option value="Never_married">Never_married</option>
+      <option value="Separated">Separated</option>
+      <option value="Widowed">Widowed</option>
+    </select>
+    <br>
+    <label>Occupation</label>
+    <select name="occupation">
+      <option value="Adm_clerical">Adm_clerical</option>
+      <option value="Armed_Forces">Armed_Forces</option>
+      <option value="Craft_repair">Craft_repair</option>
+      <option value="Exec_managerial">Exec_managerial</option>
+      <option value="Farming_fishing">Farming_fishing</option>
+      <option value="Handlers_cleaners">Handlers_cleaners</option>
+      <option value="Machine_op_inspct">Machine_op_inspct</option>
+      <option value="Other_service">Other_service</option>
+      <option value="Priv_house_serv">Priv_house_serv</option>
+      <option value="Prof_specialty">Prof_specialty</option>
+      <option value="Protective_serv">Protective_serv</option>
+      <option value="Sales">Sales</option>
+      <option value="Tech_support">Tech_support</option>
+      <option value="Transport_moving">Transport_moving</option>
+    </select>
+    <br>
+    <label for="relationship">Relationship</label>
+    <select name="relationship">
+      <option value="Not_in_family">Not_in_family</option>
+      <option value="Other_relative">Other_relative</option>
+      <option value="Own_child">Own_child</option>
+      <option value="Unmarried">Unmarried</option>
+      <option value="Wife">Wife</option>
+    </select>
+    <br>
+    <label>Race</label>
+    <select name="race">
+      <option value="Asian_Pac_Islander">Asian_Pac_Islander</option>
+      <option value="Black">Black</option>
+      <option value="Other">Other</option>
+      <option value="White">White</option>
+    </select>
+    <br>
+    <label>Gender</label>
+    <select name="gender">
+      <option value="female">Female</option>
+      <option value="male">Male</option>
+    </select>
+    <br>
+    <label>Native Country</label>
+    <select name="country">
+      <option value="Cambodia">Cambodia</option>
+      <option value="Canada">Canada</option>
+      <option value="China">China</option>
+      <option value="Columbia">Columbia</option>
+      <option value="Cuba">Cuba</option>
+      <option value="Dominican Republic">Dominican Republic</option>
+      <option value="Ecuador">Ecuador</option>
+      <option value="El Salvadorr">El Salvadorr</option>
+      <option value="England">England</option>
+      <option value="France">France</option>
+      <option value="Germany">Germany</option>
+      <option value="Greece">Greece</option>
+      <option value="Guatemala">Guatemala</option>
+      <option value="Haiti">Haiti</option>
+      <option value="Netherlands">Netherlands</option>
+      <option value="Honduras">Honduras</option>
+      <option value="HongKong">HongKong</option>
+      <option value="Hungary">Hungary</option>
+      <option value="India">India</option>
+      <option value="Iran">Iran</option>
+      <option value="Ireland">Ireland</option>
+      <option value="Italy">Italy</option>
+      <option value="Jamaica">Jamaica</option>
+      <option value="Japan">Japan</option>
+      <option value="Laos">Laos</option>
+      <option value="Mexico">Mexico</option>
+      <option value="Nicaragua">Nicaragua</option>
+      <option value="Outlying-US(Guam-USVI-etc)">Outlying-US(Guam-USVI-etc)</option>
+      <option value="Peru">Peru</option>
+      <option value="Philippines">Philippines</option>
+      <option value="Poland">Poland</option>
+      <option value="Portugal">Portugal</option>
+      <option value="Puerto-Rico">Puerto-Rico</option>
+      <option value="Scotland">Scotland</option>
+      <option value="South">South</option>
+      <option value="Taiwan">Taiwan</option>
+      <option value="Thailand">Thailand</option>
+      <option value="Trinadad&Tobago">Trinadad&Tobago</option>
+      <option value="United States">United States</option>
+      <option value="Vietnam">Vietnam</option>
+      <option value="Yugoslavia">Yugoslavia</option>
+    </select>
+    <br>
+    <input type="submit" value="Submit">
+  </form>
+</div>
+    <br>
+    <br>
+    <h2> {{prediction_text}} </h2>
+
+</body>
+</html>

@@ -1,0 +1,917 @@
+2021-10-17/10:55:37		Entered in removing extra space function !!
+2021-10-17/10:55:37		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-17/10:55:37		Entered in seperate independent and dependent function !!
+2021-10-17/10:55:37		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-17/10:55:37		Entered in function column with missing value !!
+2021-10-17/10:55:37		Exiting columns with missing value function,get columns names successfully!!
+2021-10-17/10:55:37		Entered in removing unwanted features function !!
+2021-10-17/10:55:37		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-17/10:55:37		Exiting computeOutliars,replaced outliars successfully
+2021-10-17/10:55:37		Entered in function compute outliars !!
+2021-10-17/10:55:37		Exiting outliarsCompute,replaced outliars successfully
+2021-10-17/10:55:37		Entered in function scale Down Numeric Features!!
+2021-10-17/10:55:37		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-17/10:55:37		Entered in function encode categorical Features!!
+2021-10-17/10:55:37		Exiting encode categorical features Dataset,encode features successfully
+2021-10-17/10:55:37		Entered in function handle balanced dataset !!
+2021-10-17/10:55:38		Exiting Handle Imbalanced Dataset,Handle Imbalanced dataset successfully
+2021-10-17/11:01:55		Entered in removing extra space function !!
+2021-10-17/11:01:55		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-17/11:01:55		Entered in function column with missing value !!
+2021-10-17/11:01:55		Exiting columns with missing value function,get columns names successfully!!
+2021-10-17/11:01:55		Entered in removing unwanted features function !!
+2021-10-17/11:01:55		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-17/11:01:55		Exiting computeOutliars,replaced outliars successfully
+2021-10-17/11:01:55		Entered in function compute outliars !!
+2021-10-17/11:01:55		Exiting outliarsCompute,replaced outliars successfully
+2021-10-17/11:01:55		Entered in function scale Down Numeric Features!!
+2021-10-17/11:01:55		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-17/11:01:55		Entered in function encode categorical Features!!
+2021-10-17/11:01:56		Exiting encode categorical features Dataset,encode features successfully
+2021-10-17/17:42:25		Entered in removing extra space function !!
+2021-10-17/17:42:25		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-17/17:42:25		Entered in function column with missing value !!
+2021-10-17/17:42:25		Exiting columns with missing value function,get columns names successfully!!
+2021-10-17/17:42:25		Entered in removing unwanted features function !!
+2021-10-17/17:42:25		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-17/17:42:25		Exiting computeOutliars,replaced outliars successfully
+2021-10-17/17:42:25		Entered in function compute outliars !!
+2021-10-17/17:42:25		Exiting outliarsCompute,replaced outliars successfully
+2021-10-17/17:42:25		Entered in function scale Down Numeric Features!!
+2021-10-17/17:42:25		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-17/17:42:25		Entered in function encode categorical Features!!
+2021-10-17/17:42:25		Exiting encode categorical features Dataset,encode features successfully
+2021-10-17/17:43:51		Entered in removing extra space function !!
+2021-10-17/17:43:51		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-17/17:43:51		Entered in function column with missing value !!
+2021-10-17/17:43:51		Exiting columns with missing value function,get columns names successfully!!
+2021-10-17/17:43:51		Entered in removing unwanted features function !!
+2021-10-17/17:43:51		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-17/17:43:51		Exiting computeOutliars,replaced outliars successfully
+2021-10-17/17:43:51		Entered in function compute outliars !!
+2021-10-17/17:43:51		Exiting outliarsCompute,replaced outliars successfully
+2021-10-17/17:43:51		Entered in function scale Down Numeric Features!!
+2021-10-17/17:43:51		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-17/17:43:51		Entered in function encode categorical Features!!
+2021-10-17/17:43:51		Exiting encode categorical features Dataset,encode features successfully
+2021-10-17/18:27:11		Entered in removing extra space function !!
+2021-10-17/18:27:11		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-17/18:27:11		Entered in function column with missing value !!
+2021-10-17/18:27:11		Exiting columns with missing value function,get columns names successfully!!
+2021-10-17/18:27:11		Entered in removing unwanted features function !!
+2021-10-17/18:27:11		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-17/18:27:11		Exiting computeOutliars,replaced outliars successfully
+2021-10-17/18:27:11		Entered in function compute outliars !!
+2021-10-17/18:27:11		Exiting outliarsCompute,replaced outliars successfully
+2021-10-17/18:27:11		Entered in function scale Down Numeric Features!!
+2021-10-17/18:27:11		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-17/18:27:11		Entered in function encode categorical Features!!
+2021-10-17/18:27:11		Exiting encode categorical features Dataset,encode features successfully
+2021-10-17/18:27:14		Entered in removing extra space function !!
+2021-10-17/18:27:14		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-17/18:27:14		Entered in function column with missing value !!
+2021-10-17/18:27:14		Exiting columns with missing value function,get columns names successfully!!
+2021-10-17/18:27:14		Entered in removing unwanted features function !!
+2021-10-17/18:27:14		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-17/18:27:14		Exiting computeOutliars,replaced outliars successfully
+2021-10-17/18:27:14		Entered in function compute outliars !!
+2021-10-17/18:27:14		Exiting outliarsCompute,replaced outliars successfully
+2021-10-17/18:27:14		Entered in function scale Down Numeric Features!!
+2021-10-17/18:27:14		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-17/18:27:14		Entered in function encode categorical Features!!
+2021-10-17/18:27:14		Exiting encode categorical features Dataset,encode features successfully
+2021-10-17/18:27:19		Entered in removing extra space function !!
+2021-10-17/18:27:19		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-17/18:27:19		Entered in function column with missing value !!
+2021-10-17/18:27:19		Exiting columns with missing value function,get columns names successfully!!
+2021-10-17/18:27:19		Entered in removing unwanted features function !!
+2021-10-17/18:27:19		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-17/18:27:19		Exiting computeOutliars,replaced outliars successfully
+2021-10-17/18:27:19		Entered in function compute outliars !!
+2021-10-17/18:27:19		Exiting outliarsCompute,replaced outliars successfully
+2021-10-17/18:27:19		Entered in function scale Down Numeric Features!!
+2021-10-17/18:27:19		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-17/18:27:19		Entered in function encode categorical Features!!
+2021-10-17/18:27:19		Exiting encode categorical features Dataset,encode features successfully
+2021-10-17/18:27:20		Entered in removing extra space function !!
+2021-10-17/18:27:20		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-17/18:27:20		Entered in function column with missing value !!
+2021-10-17/18:27:20		Exiting columns with missing value function,get columns names successfully!!
+2021-10-17/18:27:20		Entered in removing unwanted features function !!
+2021-10-17/18:27:20		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-17/18:27:20		Exiting computeOutliars,replaced outliars successfully
+2021-10-17/18:27:20		Entered in function compute outliars !!
+2021-10-17/18:27:20		Exiting outliarsCompute,replaced outliars successfully
+2021-10-17/18:27:20		Entered in function scale Down Numeric Features!!
+2021-10-17/18:27:20		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-17/18:27:20		Entered in function encode categorical Features!!
+2021-10-17/18:27:20		Exiting encode categorical features Dataset,encode features successfully
+2021-10-17/18:27:40		Entered in removing extra space function !!
+2021-10-17/18:27:40		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-17/18:27:40		Entered in function column with missing value !!
+2021-10-17/18:27:40		Exiting columns with missing value function,get columns names successfully!!
+2021-10-17/18:27:40		Entered in removing unwanted features function !!
+2021-10-17/18:27:40		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-17/18:27:40		Exiting computeOutliars,replaced outliars successfully
+2021-10-17/18:27:40		Entered in function compute outliars !!
+2021-10-17/18:27:40		Exiting outliarsCompute,replaced outliars successfully
+2021-10-17/18:27:40		Entered in function scale Down Numeric Features!!
+2021-10-17/18:27:40		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-17/18:27:40		Entered in function encode categorical Features!!
+2021-10-17/18:27:40		Exiting encode categorical features Dataset,encode features successfully
+2021-10-17/18:28:54		Entered in removing extra space function !!
+2021-10-17/18:28:54		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-17/18:28:54		Entered in function column with missing value !!
+2021-10-17/18:28:54		Exiting columns with missing value function,get columns names successfully!!
+2021-10-17/18:28:54		Entered in removing unwanted features function !!
+2021-10-17/18:28:54		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-17/18:28:54		Exiting computeOutliars,replaced outliars successfully
+2021-10-17/18:28:54		Entered in function compute outliars !!
+2021-10-17/18:28:54		Exiting outliarsCompute,replaced outliars successfully
+2021-10-17/18:28:54		Entered in function scale Down Numeric Features!!
+2021-10-17/18:28:54		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-17/18:28:54		Entered in function encode categorical Features!!
+2021-10-17/18:28:54		Exiting encode categorical features Dataset,encode features successfully
+2021-10-17/18:29:13		Entered in removing extra space function !!
+2021-10-17/18:29:13		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-17/18:29:13		Entered in function column with missing value !!
+2021-10-17/18:29:14		Exiting columns with missing value function,get columns names successfully!!
+2021-10-17/18:29:14		Entered in removing unwanted features function !!
+2021-10-17/18:29:14		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-17/18:29:14		Exiting computeOutliars,replaced outliars successfully
+2021-10-17/18:29:14		Entered in function compute outliars !!
+2021-10-17/18:29:14		Exiting outliarsCompute,replaced outliars successfully
+2021-10-17/18:29:14		Entered in function scale Down Numeric Features!!
+2021-10-17/18:29:14		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-17/18:29:14		Entered in function encode categorical Features!!
+2021-10-17/18:29:14		Exiting encode categorical features Dataset,encode features successfully
+2021-10-17/20:50:58		Entered in removing extra space function !!
+2021-10-17/20:50:58		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-17/20:50:58		Entered in function column with missing value !!
+2021-10-17/20:50:58		Exiting columns with missing value function,get columns names successfully!!
+2021-10-17/20:50:58		Entered in removing unwanted features function !!
+2021-10-17/20:50:58		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-17/20:50:58		Exiting computeOutliars,replaced outliars successfully
+2021-10-17/20:50:58		Entered in function compute outliars !!
+2021-10-17/20:50:58		Exiting outliarsCompute,replaced outliars successfully
+2021-10-17/20:50:58		Entered in function scale Down Numeric Features!!
+2021-10-17/20:50:58		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-17/20:50:58		Entered in function encode categorical Features!!
+2021-10-17/20:50:58		Exiting encode categorical features Dataset,encode features successfully
+2021-10-17/20:51:04		Entered in removing extra space function !!
+2021-10-17/20:51:04		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-17/20:51:04		Entered in function column with missing value !!
+2021-10-17/20:51:04		Exiting columns with missing value function,get columns names successfully!!
+2021-10-17/20:51:04		Entered in removing unwanted features function !!
+2021-10-17/20:51:04		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-17/20:51:04		Exiting computeOutliars,replaced outliars successfully
+2021-10-17/20:51:04		Entered in function compute outliars !!
+2021-10-17/20:51:04		Exiting outliarsCompute,replaced outliars successfully
+2021-10-17/20:51:04		Entered in function scale Down Numeric Features!!
+2021-10-17/20:51:04		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-17/20:51:04		Entered in function encode categorical Features!!
+2021-10-17/20:51:04		Exiting encode categorical features Dataset,encode features successfully
+2021-10-18/09:16:58		Entered in removing extra space function !!
+2021-10-18/09:16:58		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-18/09:16:58		Entered in function column with missing value !!
+2021-10-18/09:16:58		Exiting columns with missing value function,get columns names successfully!!
+2021-10-18/09:16:58		Entered in removing unwanted features function !!
+2021-10-18/09:16:58		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-18/09:16:58		Exiting computeOutliars,replaced outliars successfully
+2021-10-18/09:16:58		Entered in function compute outliars !!
+2021-10-18/09:16:58		Exiting outliarsCompute,replaced outliars successfully
+2021-10-18/09:16:58		Entered in function scale Down Numeric Features!!
+2021-10-18/09:16:58		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-18/09:16:58		Entered in function encode categorical Features!!
+2021-10-18/09:16:58		Exiting encode categorical features Dataset,encode features successfully
+2021-10-18/09:17:56		Entered in removing extra space function !!
+2021-10-18/09:17:56		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-18/09:17:56		Entered in function column with missing value !!
+2021-10-18/09:17:56		Exiting columns with missing value function,get columns names successfully!!
+2021-10-18/09:17:56		Entered in removing unwanted features function !!
+2021-10-18/09:17:56		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-18/09:17:56		Exiting computeOutliars,replaced outliars successfully
+2021-10-18/09:17:56		Entered in function compute outliars !!
+2021-10-18/09:17:56		Exiting outliarsCompute,replaced outliars successfully
+2021-10-18/09:17:56		Entered in function scale Down Numeric Features!!
+2021-10-18/09:17:56		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-18/09:17:56		Entered in function encode categorical Features!!
+2021-10-18/09:17:56		Exiting encode categorical features Dataset,encode features successfully
+2021-10-19/10:32:53		Entered in removing extra space function !!
+2021-10-19/10:32:53		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-19/10:32:53		Entered in function column with missing value !!
+2021-10-19/10:32:53		Exiting columns with missing value function,get columns names successfully!!
+2021-10-19/10:32:53		Entered in removing unwanted features function !!
+2021-10-19/10:32:53		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-19/10:32:53		Exiting computeOutliars,replaced outliars successfully
+2021-10-19/10:32:53		Entered in function compute outliars !!
+2021-10-19/10:32:53		Exiting outliarsCompute,replaced outliars successfully
+2021-10-19/10:32:53		Entered in function scale Down Numeric Features!!
+2021-10-19/10:32:53		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-19/10:32:53		Entered in function encode categorical Features!!
+2021-10-19/10:32:53		Exiting encode categorical features Dataset,encode features successfully
+2021-10-19/10:34:05		Entered in removing extra space function !!
+2021-10-19/10:34:05		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-19/10:34:05		Entered in function column with missing value !!
+2021-10-19/10:34:05		Exiting columns with missing value function,get columns names successfully!!
+2021-10-19/10:34:05		Entered in removing unwanted features function !!
+2021-10-19/10:34:05		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-19/10:34:05		Exiting computeOutliars,replaced outliars successfully
+2021-10-19/10:34:05		Entered in function compute outliars !!
+2021-10-19/10:34:05		Exiting outliarsCompute,replaced outliars successfully
+2021-10-19/10:34:05		Entered in function scale Down Numeric Features!!
+2021-10-19/10:34:05		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-19/10:34:05		Entered in function encode categorical Features!!
+2021-10-19/10:34:05		Exiting encode categorical features Dataset,encode features successfully
+2021-10-19/10:35:24		Entered in removing extra space function !!
+2021-10-19/10:35:24		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-19/10:35:24		Entered in function column with missing value !!
+2021-10-19/10:35:24		Exiting columns with missing value function,get columns names successfully!!
+2021-10-19/10:35:24		Entered in removing unwanted features function !!
+2021-10-19/10:35:24		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-19/10:35:24		Exiting computeOutliars,replaced outliars successfully
+2021-10-19/10:35:24		Entered in function compute outliars !!
+2021-10-19/10:35:24		Exiting outliarsCompute,replaced outliars successfully
+2021-10-19/10:35:24		Entered in function scale Down Numeric Features!!
+2021-10-19/10:35:24		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-19/10:35:24		Entered in function encode categorical Features!!
+2021-10-19/10:35:24		Exiting encode categorical features Dataset,encode features successfully
+2021-10-19/10:35:30		Entered in removing extra space function !!
+2021-10-19/10:35:30		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-19/10:35:30		Entered in function column with missing value !!
+2021-10-19/10:35:30		Exiting columns with missing value function,get columns names successfully!!
+2021-10-19/10:35:30		Entered in removing unwanted features function !!
+2021-10-19/10:35:30		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-19/10:35:30		Exiting computeOutliars,replaced outliars successfully
+2021-10-19/10:35:30		Entered in function compute outliars !!
+2021-10-19/10:35:30		Exiting outliarsCompute,replaced outliars successfully
+2021-10-19/10:35:30		Entered in function scale Down Numeric Features!!
+2021-10-19/10:35:30		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-19/10:35:30		Entered in function encode categorical Features!!
+2021-10-19/10:35:30		Exiting encode categorical features Dataset,encode features successfully
+2021-10-19/10:35:51		Entered in removing extra space function !!
+2021-10-19/10:35:51		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-19/10:35:51		Entered in function column with missing value !!
+2021-10-19/10:35:51		Exiting columns with missing value function,get columns names successfully!!
+2021-10-19/10:35:51		Entered in removing unwanted features function !!
+2021-10-19/10:35:51		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-19/10:35:51		Exiting computeOutliars,replaced outliars successfully
+2021-10-19/10:35:51		Entered in function compute outliars !!
+2021-10-19/10:35:51		Exiting outliarsCompute,replaced outliars successfully
+2021-10-19/10:35:51		Entered in function scale Down Numeric Features!!
+2021-10-19/10:35:51		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-19/10:35:51		Entered in function encode categorical Features!!
+2021-10-19/10:35:51		Exiting encode categorical features Dataset,encode features successfully
+2021-10-19/10:46:19		Entered in removing extra space function !!
+2021-10-19/10:46:19		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-19/10:46:19		Entered in function column with missing value !!
+2021-10-19/10:46:19		Exiting columns with missing value function,get columns names successfully!!
+2021-10-19/10:46:19		Entered in removing unwanted features function !!
+2021-10-19/10:46:19		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-19/10:46:19		Exiting computeOutliars,replaced outliars successfully
+2021-10-19/10:46:19		Entered in function compute outliars !!
+2021-10-19/10:46:19		Exiting outliarsCompute,replaced outliars successfully
+2021-10-19/10:46:19		Entered in function scale Down Numeric Features!!
+2021-10-19/10:46:19		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-19/10:46:19		Entered in function encode categorical Features!!
+2021-10-19/10:46:19		Exiting encode categorical features Dataset,encode features successfully
+2021-10-19/10:46:23		Entered in removing extra space function !!
+2021-10-19/10:46:23		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-19/10:46:23		Entered in function column with missing value !!
+2021-10-19/10:46:23		Exiting columns with missing value function,get columns names successfully!!
+2021-10-19/10:46:23		Entered in removing unwanted features function !!
+2021-10-19/10:46:23		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-19/10:46:23		Exiting computeOutliars,replaced outliars successfully
+2021-10-19/10:46:23		Entered in function compute outliars !!
+2021-10-19/10:46:23		Exiting outliarsCompute,replaced outliars successfully
+2021-10-19/10:46:23		Entered in function scale Down Numeric Features!!
+2021-10-19/10:46:23		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-19/10:46:23		Entered in function encode categorical Features!!
+2021-10-19/10:46:23		Exiting encode categorical features Dataset,encode features successfully
+2021-10-19/10:53:07		Entered in removing extra space function !!
+2021-10-19/10:53:07		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-19/10:53:07		Entered in function column with missing value !!
+2021-10-19/10:53:07		Exiting columns with missing value function,get columns names successfully!!
+2021-10-19/10:53:07		Entered in removing unwanted features function !!
+2021-10-19/10:53:07		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-19/10:53:07		Exiting computeOutliars,replaced outliars successfully
+2021-10-19/10:53:07		Entered in function compute outliars !!
+2021-10-19/10:53:07		Exiting outliarsCompute,replaced outliars successfully
+2021-10-19/10:53:07		Entered in function scale Down Numeric Features!!
+2021-10-19/10:53:07		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-19/10:53:07		Entered in function encode categorical Features!!
+2021-10-19/10:53:07		Exiting encode categorical features Dataset,encode features successfully
+2021-10-19/10:53:13		Entered in removing extra space function !!
+2021-10-19/10:53:13		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-19/10:53:13		Entered in function column with missing value !!
+2021-10-19/10:53:13		Exiting columns with missing value function,get columns names successfully!!
+2021-10-19/10:53:13		Entered in removing unwanted features function !!
+2021-10-19/10:53:13		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-19/10:53:13		Exiting computeOutliars,replaced outliars successfully
+2021-10-19/10:53:13		Entered in function compute outliars !!
+2021-10-19/10:53:13		Exiting outliarsCompute,replaced outliars successfully
+2021-10-19/10:53:13		Entered in function scale Down Numeric Features!!
+2021-10-19/10:53:13		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-19/10:53:13		Entered in function encode categorical Features!!
+2021-10-19/10:53:13		Exiting encode categorical features Dataset,encode features successfully
+2021-10-19/11:05:26		Entered in removing extra space function !!
+2021-10-19/11:05:26		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-19/11:05:26		Entered in function column with missing value !!
+2021-10-19/11:05:26		Exiting columns with missing value function,get columns names successfully!!
+2021-10-19/11:05:26		Entered in removing unwanted features function !!
+2021-10-19/11:05:26		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-19/11:05:26		Exiting computeOutliars,replaced outliars successfully
+2021-10-19/11:05:26		Entered in function compute outliars !!
+2021-10-19/11:05:26		Exiting outliarsCompute,replaced outliars successfully
+2021-10-19/11:05:26		Entered in function scale Down Numeric Features!!
+2021-10-19/11:05:26		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-19/11:05:26		Entered in function encode categorical Features!!
+2021-10-19/11:05:26		Exiting encode categorical features Dataset,encode features successfully
+2021-10-19/11:05:28		Entered in removing extra space function !!
+2021-10-19/11:05:28		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-19/11:05:28		Entered in function column with missing value !!
+2021-10-19/11:05:28		Exiting columns with missing value function,get columns names successfully!!
+2021-10-19/11:05:28		Entered in removing unwanted features function !!
+2021-10-19/11:05:28		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-19/11:05:28		Exiting computeOutliars,replaced outliars successfully
+2021-10-19/11:05:28		Entered in function compute outliars !!
+2021-10-19/11:05:28		Exiting outliarsCompute,replaced outliars successfully
+2021-10-19/11:05:28		Entered in function scale Down Numeric Features!!
+2021-10-19/11:05:28		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-19/11:05:28		Entered in function encode categorical Features!!
+2021-10-19/11:05:28		Exiting encode categorical features Dataset,encode features successfully
+2021-10-20/23:14:10		Entered in removing extra space function !!
+2021-10-20/23:14:10		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-20/23:14:10		Entered in function column with missing value !!
+2021-10-20/23:14:10		Exiting columns with missing value function,get columns names successfully!!
+2021-10-20/23:14:10		Entered in removing unwanted features function !!
+2021-10-20/23:14:10		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-20/23:14:10		Exiting computeOutliars,replaced outliars successfully
+2021-10-20/23:14:10		Entered in function compute outliars !!
+2021-10-20/23:14:10		Exiting outliarsCompute,replaced outliars successfully
+2021-10-20/23:14:10		Entered in function scale Down Numeric Features!!
+2021-10-20/23:14:10		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-20/23:14:10		Entered in function encode categorical Features!!
+2021-10-20/23:14:10		Exiting encode categorical features Dataset,encode features successfully
+2021-10-20/23:14:13		Entered in removing extra space function !!
+2021-10-20/23:14:13		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-20/23:14:13		Entered in function column with missing value !!
+2021-10-20/23:14:13		Exiting columns with missing value function,get columns names successfully!!
+2021-10-20/23:14:13		Entered in removing unwanted features function !!
+2021-10-20/23:14:13		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-20/23:14:13		Exiting computeOutliars,replaced outliars successfully
+2021-10-20/23:14:13		Entered in function compute outliars !!
+2021-10-20/23:14:13		Exiting outliarsCompute,replaced outliars successfully
+2021-10-20/23:14:13		Entered in function scale Down Numeric Features!!
+2021-10-20/23:14:13		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-20/23:14:13		Entered in function encode categorical Features!!
+2021-10-20/23:14:13		Exiting encode categorical features Dataset,encode features successfully
+2021-10-20/23:14:15		Entered in removing extra space function !!
+2021-10-20/23:14:15		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-20/23:14:15		Entered in function column with missing value !!
+2021-10-20/23:14:15		Exiting columns with missing value function,get columns names successfully!!
+2021-10-20/23:14:15		Entered in removing unwanted features function !!
+2021-10-20/23:14:15		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-20/23:14:15		Exiting computeOutliars,replaced outliars successfully
+2021-10-20/23:14:15		Entered in function compute outliars !!
+2021-10-20/23:14:15		Exiting outliarsCompute,replaced outliars successfully
+2021-10-20/23:14:15		Entered in function scale Down Numeric Features!!
+2021-10-20/23:14:15		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-20/23:14:15		Entered in function encode categorical Features!!
+2021-10-20/23:14:15		Exiting encode categorical features Dataset,encode features successfully
+2021-10-21/00:42:04		Entered in removing extra space function !!
+2021-10-21/00:42:04		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-21/00:42:04		Entered in function column with missing value !!
+2021-10-21/00:42:04		Exiting columns with missing value function,get columns names successfully!!
+2021-10-21/00:42:04		Entered in removing unwanted features function !!
+2021-10-21/00:42:04		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-21/00:42:04		Exiting computeOutliars,replaced outliars successfully
+2021-10-21/00:42:04		Entered in function compute outliars !!
+2021-10-21/00:42:04		Exiting outliarsCompute,replaced outliars successfully
+2021-10-21/00:42:04		Entered in function scale Down Numeric Features!!
+2021-10-21/00:42:04		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-21/00:42:04		Entered in function encode categorical Features!!
+2021-10-21/00:42:04		Exiting encode categorical features Dataset,encode features successfully
+2021-10-21/00:56:03		Entered in removing extra space function !!
+2021-10-21/00:56:03		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-21/00:56:03		Entered in function column with missing value !!
+2021-10-21/00:56:03		Exiting columns with missing value function,get columns names successfully!!
+2021-10-21/00:56:03		Entered in removing unwanted features function !!
+2021-10-21/00:56:03		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-21/00:56:03		Exiting computeOutliars,replaced outliars successfully
+2021-10-21/00:56:03		Entered in function compute outliars !!
+2021-10-21/00:56:03		Exiting outliarsCompute,replaced outliars successfully
+2021-10-21/00:56:03		Entered in function scale Down Numeric Features!!
+2021-10-21/00:56:03		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-21/00:56:03		Entered in function encode categorical Features!!
+2021-10-21/00:56:03		Exiting encode categorical features Dataset,encode features successfully
+2021-10-21/01:21:53		Entered in removing extra space function !!
+2021-10-21/01:21:53		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-21/01:21:53		Entered in function column with missing value !!
+2021-10-21/01:21:53		Exiting columns with missing value function,get columns names successfully!!
+2021-10-21/01:21:53		Entered in removing unwanted features function !!
+2021-10-21/01:21:53		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-21/01:21:53		Exiting computeOutliars,replaced outliars successfully
+2021-10-21/01:21:53		Entered in function compute outliars !!
+2021-10-21/01:21:53		Exiting outliarsCompute,replaced outliars successfully
+2021-10-21/01:21:53		Entered in function scale Down Numeric Features!!
+2021-10-21/01:21:53		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-21/01:21:53		Entered in function encode categorical Features!!
+2021-10-21/01:21:53		Exiting encode categorical features Dataset,encode features successfully
+2021-10-21/01:21:54		Entered in removing extra space function !!
+2021-10-21/01:21:54		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-21/01:21:54		Entered in function column with missing value !!
+2021-10-21/01:21:54		Exiting columns with missing value function,get columns names successfully!!
+2021-10-21/01:21:54		Entered in removing unwanted features function !!
+2021-10-21/01:21:54		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-21/01:21:54		Exiting computeOutliars,replaced outliars successfully
+2021-10-21/01:21:54		Entered in function compute outliars !!
+2021-10-21/01:21:54		Exiting outliarsCompute,replaced outliars successfully
+2021-10-21/01:21:54		Entered in function scale Down Numeric Features!!
+2021-10-21/01:21:54		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-21/01:21:54		Entered in function encode categorical Features!!
+2021-10-21/01:21:54		Exiting encode categorical features Dataset,encode features successfully
+2021-10-21/10:14:14		Entered in removing extra space function !!
+2021-10-21/10:14:14		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-21/10:14:14		Entered in function column with missing value !!
+2021-10-21/10:14:14		Exiting columns with missing value function,get columns names successfully!!
+2021-10-21/10:14:14		Entered in removing unwanted features function !!
+2021-10-21/10:14:14		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-21/10:14:14		Exiting computeOutliars,replaced outliars successfully
+2021-10-21/10:14:14		Entered in function compute outliars !!
+2021-10-21/10:14:14		Exiting outliarsCompute,replaced outliars successfully
+2021-10-21/10:14:14		Entered in function scale Down Numeric Features!!
+2021-10-21/10:14:14		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-21/10:14:14		Entered in function encode categorical Features!!
+2021-10-21/10:14:14		Exiting encode categorical features Dataset,encode features successfully
+2021-10-21/10:28:06		Entered in removing extra space function !!
+2021-10-21/10:28:06		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-21/10:28:06		Entered in function column with missing value !!
+2021-10-21/10:28:06		Exiting columns with missing value function,get columns names successfully!!
+2021-10-21/10:28:06		Entered in removing unwanted features function !!
+2021-10-21/10:28:06		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-21/10:28:06		Exiting computeOutliars,replaced outliars successfully
+2021-10-21/10:28:06		Entered in function compute outliars !!
+2021-10-21/10:28:06		Exiting outliarsCompute,replaced outliars successfully
+2021-10-21/10:28:06		Entered in function scale Down Numeric Features!!
+2021-10-21/10:28:06		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-21/10:28:06		Entered in function encode categorical Features!!
+2021-10-21/10:28:06		Exiting encode categorical features Dataset,encode features successfully
+2021-10-21/10:28:08		Entered in removing extra space function !!
+2021-10-21/10:28:08		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-21/10:28:08		Entered in function column with missing value !!
+2021-10-21/10:28:08		Exiting columns with missing value function,get columns names successfully!!
+2021-10-21/10:28:08		Entered in removing unwanted features function !!
+2021-10-21/10:28:08		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-21/10:28:08		Exiting computeOutliars,replaced outliars successfully
+2021-10-21/10:28:08		Entered in function compute outliars !!
+2021-10-21/10:28:08		Exiting outliarsCompute,replaced outliars successfully
+2021-10-21/10:28:08		Entered in function scale Down Numeric Features!!
+2021-10-21/10:28:08		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-21/10:28:08		Entered in function encode categorical Features!!
+2021-10-21/10:28:08		Exiting encode categorical features Dataset,encode features successfully
+2021-10-21/10:28:11		Entered in removing extra space function !!
+2021-10-21/10:28:11		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-21/10:28:11		Entered in function column with missing value !!
+2021-10-21/10:28:11		Exiting columns with missing value function,get columns names successfully!!
+2021-10-21/10:28:11		Entered in removing unwanted features function !!
+2021-10-21/10:28:11		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-21/10:28:11		Exiting computeOutliars,replaced outliars successfully
+2021-10-21/10:28:11		Entered in function compute outliars !!
+2021-10-21/10:28:11		Exiting outliarsCompute,replaced outliars successfully
+2021-10-21/10:28:11		Entered in function scale Down Numeric Features!!
+2021-10-21/10:28:11		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-21/10:28:11		Entered in function encode categorical Features!!
+2021-10-21/10:28:11		Exiting encode categorical features Dataset,encode features successfully
+2021-10-21/10:28:12		Entered in removing extra space function !!
+2021-10-21/10:28:12		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-21/10:28:12		Entered in function column with missing value !!
+2021-10-21/10:28:12		Exiting columns with missing value function,get columns names successfully!!
+2021-10-21/10:28:12		Entered in removing unwanted features function !!
+2021-10-21/10:28:12		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-21/10:28:12		Exiting computeOutliars,replaced outliars successfully
+2021-10-21/10:28:12		Entered in function compute outliars !!
+2021-10-21/10:28:12		Exiting outliarsCompute,replaced outliars successfully
+2021-10-21/10:28:12		Entered in function scale Down Numeric Features!!
+2021-10-21/10:28:12		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-21/10:28:12		Entered in function encode categorical Features!!
+2021-10-21/10:28:12		Exiting encode categorical features Dataset,encode features successfully
+2021-10-22/07:19:28		Entered in removing extra space function !!
+2021-10-22/07:19:28		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:19:28		Entered in seperate independent and dependent function !!
+2021-10-22/07:19:28		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:19:28		Entered in function column with missing value !!
+2021-10-22/07:19:28		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:19:28		Entered in removing unwanted features function !!
+2021-10-22/07:19:28		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:19:28		Entered in function compute outliars !!
+2021-10-22/07:19:28		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:19:28		Entered in function scale Down Numeric Features!!
+2021-10-22/07:19:28		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/07:19:28		Entered in function encode categorical Features!!
+2021-10-22/07:19:28		Exiting encode categorical features Dataset,encode features successfully
+2021-10-22/07:19:28		Entered in function handle balanced dataset !!
+2021-10-22/07:19:29		Exiting Handle Imbalanced Dataset,Handle Imbalanced dataset successfully
+2021-10-22/07:21:16		Entered in removing extra space function !!
+2021-10-22/07:21:16		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:21:16		Entered in seperate independent and dependent function !!
+2021-10-22/07:21:16		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:21:16		Entered in function column with missing value !!
+2021-10-22/07:21:16		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:21:16		Entered in removing unwanted features function !!
+2021-10-22/07:21:16		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:21:16		Entered in function compute outliars !!
+2021-10-22/07:21:16		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:21:16		Entered in function scale Down Numeric Features!!
+2021-10-22/07:21:16		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/07:21:16		Entered in function encode categorical Features!!
+2021-10-22/07:21:16		Exiting encode categorical features Dataset,encode features successfully
+2021-10-22/07:21:16		Entered in function handle balanced dataset !!
+2021-10-22/07:21:17		Exiting Handle Imbalanced Dataset,Handle Imbalanced dataset successfully
+2021-10-22/07:22:55		Entered in removing extra space function !!
+2021-10-22/07:22:55		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:22:55		Entered in seperate independent and dependent function !!
+2021-10-22/07:22:55		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:22:55		Entered in function column with missing value !!
+2021-10-22/07:22:55		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:22:55		Entered in removing unwanted features function !!
+2021-10-22/07:22:55		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:23:43		Entered in removing extra space function !!
+2021-10-22/07:23:43		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:23:43		Entered in seperate independent and dependent function !!
+2021-10-22/07:23:43		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:23:43		Entered in function column with missing value !!
+2021-10-22/07:23:43		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:23:43		Entered in removing unwanted features function !!
+2021-10-22/07:23:43		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:23:50		Entered in function compute outliars !!
+2021-10-22/07:23:50		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:23:50		Entered in function scale Down Numeric Features!!
+2021-10-22/07:23:50		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/07:23:50		Entered in function encode categorical Features!!
+2021-10-22/07:23:50		Exiting encode categorical features Dataset,encode features successfully
+2021-10-22/07:23:50		Entered in function handle balanced dataset !!
+2021-10-22/07:23:51		Exiting Handle Imbalanced Dataset,Handle Imbalanced dataset successfully
+2021-10-22/07:24:52		Entered in removing extra space function !!
+2021-10-22/07:24:52		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:24:52		Entered in seperate independent and dependent function !!
+2021-10-22/07:24:52		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:24:52		Entered in function column with missing value !!
+2021-10-22/07:24:52		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:24:52		Entered in removing unwanted features function !!
+2021-10-22/07:24:52		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:24:59		Entered in function compute outliars !!
+2021-10-22/07:24:59		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:25:40		Entered in removing extra space function !!
+2021-10-22/07:25:40		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:25:40		Entered in seperate independent and dependent function !!
+2021-10-22/07:25:40		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:25:40		Entered in function column with missing value !!
+2021-10-22/07:25:40		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:25:40		Entered in removing unwanted features function !!
+2021-10-22/07:25:40		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:29:18		Entered in removing extra space function !!
+2021-10-22/07:29:18		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:29:18		Entered in seperate independent and dependent function !!
+2021-10-22/07:29:18		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:29:18		Entered in function column with missing value !!
+2021-10-22/07:29:18		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:29:18		Entered in removing unwanted features function !!
+2021-10-22/07:29:18		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:29:27		Entered in function compute outliars !!
+2021-10-22/07:29:27		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:32:45		Entered in removing extra space function !!
+2021-10-22/07:32:45		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:32:45		Entered in seperate independent and dependent function !!
+2021-10-22/07:32:45		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:32:45		Entered in function column with missing value !!
+2021-10-22/07:32:45		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:32:45		Entered in removing unwanted features function !!
+2021-10-22/07:32:45		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:32:45		Entered in function compute outliars !!
+2021-10-22/07:32:45		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:33:34		Entered in removing extra space function !!
+2021-10-22/07:33:34		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:33:34		Entered in seperate independent and dependent function !!
+2021-10-22/07:33:34		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:33:34		Entered in function column with missing value !!
+2021-10-22/07:33:34		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:33:34		Entered in removing unwanted features function !!
+2021-10-22/07:33:34		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:33:34		Entered in function compute outliars !!
+2021-10-22/07:33:34		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:34:50		Entered in removing extra space function !!
+2021-10-22/07:34:51		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:34:51		Entered in seperate independent and dependent function !!
+2021-10-22/07:34:51		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:34:51		Entered in function column with missing value !!
+2021-10-22/07:34:51		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:34:51		Entered in removing unwanted features function !!
+2021-10-22/07:34:51		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:34:51		Entered in function compute outliars !!
+2021-10-22/07:34:51		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:35:22		Entered in removing extra space function !!
+2021-10-22/07:35:22		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:35:22		Entered in seperate independent and dependent function !!
+2021-10-22/07:35:22		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:35:22		Entered in function column with missing value !!
+2021-10-22/07:35:22		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:35:22		Entered in removing unwanted features function !!
+2021-10-22/07:35:22		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:35:22		Entered in function compute outliars !!
+2021-10-22/07:35:22		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:35:54		Entered in removing extra space function !!
+2021-10-22/07:35:54		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:35:54		Entered in seperate independent and dependent function !!
+2021-10-22/07:35:54		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:35:54		Entered in function column with missing value !!
+2021-10-22/07:35:54		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:35:54		Entered in removing unwanted features function !!
+2021-10-22/07:35:54		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:35:54		Entered in function compute outliars !!
+2021-10-22/07:35:54		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:36:38		Entered in removing extra space function !!
+2021-10-22/07:36:38		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:36:38		Entered in seperate independent and dependent function !!
+2021-10-22/07:36:38		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:36:38		Entered in function column with missing value !!
+2021-10-22/07:36:38		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:36:38		Entered in removing unwanted features function !!
+2021-10-22/07:36:38		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:36:38		Entered in function compute outliars !!
+2021-10-22/07:36:38		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:36:38		Entered in function scale Down Numeric Features!!
+2021-10-22/07:36:38		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/07:36:38		Entered in function encode categorical Features!!
+2021-10-22/07:36:38		Exiting encode categorical features Dataset,encode features successfully
+2021-10-22/07:38:53		Entered in removing extra space function !!
+2021-10-22/07:38:53		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:38:53		Entered in seperate independent and dependent function !!
+2021-10-22/07:38:53		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:38:53		Entered in function column with missing value !!
+2021-10-22/07:38:53		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:38:53		Entered in removing unwanted features function !!
+2021-10-22/07:38:53		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:38:53		Entered in function compute outliars !!
+2021-10-22/07:38:53		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:38:53		Entered in function scale Down Numeric Features!!
+2021-10-22/07:38:53		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/07:38:53		Entered in function encode categorical Features!!
+2021-10-22/07:38:53		Exiting encode categorical features Dataset,encode features successfully
+2021-10-22/07:39:05		Entered in removing extra space function !!
+2021-10-22/07:39:05		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:39:05		Entered in seperate independent and dependent function !!
+2021-10-22/07:39:05		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:39:05		Entered in function column with missing value !!
+2021-10-22/07:39:05		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:39:05		Entered in removing unwanted features function !!
+2021-10-22/07:39:05		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:39:05		Entered in function compute outliars !!
+2021-10-22/07:39:05		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:39:05		Entered in function scale Down Numeric Features!!
+2021-10-22/07:39:05		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/07:39:05		Entered in function encode categorical Features!!
+2021-10-22/07:39:05		Exiting encode categorical features Dataset,encode features successfully
+2021-10-22/07:39:05		Entered in function handle balanced dataset !!
+2021-10-22/07:39:06		Exiting Handle Imbalanced Dataset,Handle Imbalanced dataset successfully
+2021-10-22/07:48:49		Entered in removing extra space function !!
+2021-10-22/07:48:49		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:48:49		Entered in seperate independent and dependent function !!
+2021-10-22/07:48:49		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:48:49		Entered in function column with missing value !!
+2021-10-22/07:48:49		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:48:49		Entered in removing unwanted features function !!
+2021-10-22/07:48:49		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:48:49		Entered in function compute outliars !!
+2021-10-22/07:48:49		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:48:49		Entered in function scale Down Numeric Features!!
+2021-10-22/07:48:49		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/07:48:49		Entered in function encode categorical Features!!
+2021-10-22/07:48:49		Exiting encode categorical features Dataset,encode features successfully
+2021-10-22/07:49:02		Entered in removing extra space function !!
+2021-10-22/07:49:02		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/07:49:02		Entered in seperate independent and dependent function !!
+2021-10-22/07:49:02		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/07:49:02		Entered in function column with missing value !!
+2021-10-22/07:49:02		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/07:49:02		Entered in removing unwanted features function !!
+2021-10-22/07:49:02		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/07:49:02		Entered in function compute outliars !!
+2021-10-22/07:49:02		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/07:49:02		Entered in function scale Down Numeric Features!!
+2021-10-22/07:49:02		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/07:49:02		Entered in function encode categorical Features!!
+2021-10-22/07:49:02		Exiting encode categorical features Dataset,encode features successfully
+2021-10-22/07:49:03		Entered in function handle balanced dataset !!
+2021-10-22/07:49:04		Exiting Handle Imbalanced Dataset,Handle Imbalanced dataset successfully
+2021-10-22/11:54:37		Entered in removing extra space function !!
+2021-10-22/11:54:37		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/11:54:37		Entered in seperate independent and dependent function !!
+2021-10-22/11:54:37		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/11:54:37		Entered in function column with missing value !!
+2021-10-22/11:54:37		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/11:54:37		Entered in removing unwanted features function !!
+2021-10-22/11:54:37		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/11:54:37		Entered in function compute outliars !!
+2021-10-22/11:54:37		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/11:54:37		Entered in function scale Down Numeric Features!!
+2021-10-22/11:54:37		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/11:54:37		Entered in function encode categorical Features!!
+2021-10-22/11:54:37		Error occurred in encode category features features
+2021-10-22/11:56:18		Entered in removing extra space function !!
+2021-10-22/11:56:18		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/11:56:18		Entered in seperate independent and dependent function !!
+2021-10-22/11:56:18		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/11:56:18		Entered in function column with missing value !!
+2021-10-22/11:56:18		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/11:56:18		Entered in removing unwanted features function !!
+2021-10-22/11:56:18		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/11:56:18		Entered in function compute outliars !!
+2021-10-22/11:56:18		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/11:56:18		Entered in function scale Down Numeric Features!!
+2021-10-22/11:56:18		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/11:56:18		Entered in function encode categorical Features!!
+2021-10-22/11:56:18		Error occurred in encode category features features
+2021-10-22/11:57:55		Entered in removing extra space function !!
+2021-10-22/11:57:55		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/11:57:55		Entered in seperate independent and dependent function !!
+2021-10-22/11:57:55		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/11:57:55		Entered in function column with missing value !!
+2021-10-22/11:57:55		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/11:57:55		Entered in removing unwanted features function !!
+2021-10-22/11:57:55		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/11:57:55		Entered in function compute outliars !!
+2021-10-22/11:57:55		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/11:57:55		Entered in function scale Down Numeric Features!!
+2021-10-22/11:57:55		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/11:57:55		Entered in function encode categorical Features!!
+2021-10-22/11:57:55		Exiting encode categorical features Dataset,encode features successfully
+2021-10-22/11:57:55		Entered in function handle balanced dataset !!
+2021-10-22/11:57:56		Exiting Handle Imbalanced Dataset,Handle Imbalanced dataset successfully
+2021-10-22/12:19:01		Entered in removing extra space function !!
+2021-10-22/12:19:01		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/12:19:01		Entered in seperate independent and dependent function !!
+2021-10-22/12:19:01		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/12:19:01		Entered in function column with missing value !!
+2021-10-22/12:19:01		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/12:19:01		Entered in removing unwanted features function !!
+2021-10-22/12:19:01		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/12:19:01		Entered in function compute outliars !!
+2021-10-22/12:19:01		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/12:19:01		Entered in function scale Down Numeric Features!!
+2021-10-22/12:19:01		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/12:19:01		Entered in function encode categorical Features!!
+2021-10-22/12:19:01		Error occurred in encode category features features
+2021-10-22/12:22:05		Entered in removing extra space function !!
+2021-10-22/12:22:05		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/12:22:05		Entered in seperate independent and dependent function !!
+2021-10-22/12:22:05		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/12:22:05		Entered in function column with missing value !!
+2021-10-22/12:22:05		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/12:22:05		Entered in removing unwanted features function !!
+2021-10-22/12:22:05		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/12:22:05		Entered in function compute outliars !!
+2021-10-22/12:22:05		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/12:22:05		Entered in function scale Down Numeric Features!!
+2021-10-22/12:22:05		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/12:22:05		Entered in function encode categorical Features!!
+2021-10-22/12:22:05		Error occurred in encode category features features
+2021-10-22/12:22:16		Entered in removing extra space function !!
+2021-10-22/12:22:16		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/12:22:16		Entered in seperate independent and dependent function !!
+2021-10-22/12:22:16		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/12:22:16		Entered in function column with missing value !!
+2021-10-22/12:22:16		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/12:22:16		Entered in removing unwanted features function !!
+2021-10-22/12:22:16		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/12:22:16		Entered in function compute outliars !!
+2021-10-22/12:22:16		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/12:22:16		Entered in function scale Down Numeric Features!!
+2021-10-22/12:22:16		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/12:22:16		Entered in function encode categorical Features!!
+2021-10-22/12:22:16		Error occurred in encode category features features
+2021-10-22/12:23:27		Entered in removing extra space function !!
+2021-10-22/12:23:27		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/12:23:27		Entered in seperate independent and dependent function !!
+2021-10-22/12:23:27		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/12:23:27		Entered in function column with missing value !!
+2021-10-22/12:23:27		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/12:23:27		Entered in removing unwanted features function !!
+2021-10-22/12:23:27		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/12:23:27		Entered in function compute outliars !!
+2021-10-22/12:23:27		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/12:23:27		Entered in function scale Down Numeric Features!!
+2021-10-22/12:23:27		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/12:23:27		Entered in function encode categorical Features!!
+2021-10-22/12:25:14		Entered in removing extra space function !!
+2021-10-22/12:25:14		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/12:25:14		Entered in seperate independent and dependent function !!
+2021-10-22/12:25:14		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/12:25:14		Entered in function column with missing value !!
+2021-10-22/12:25:14		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/12:25:14		Entered in removing unwanted features function !!
+2021-10-22/12:25:14		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/12:25:14		Entered in function compute outliars !!
+2021-10-22/12:25:14		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/12:25:14		Entered in function scale Down Numeric Features!!
+2021-10-22/12:25:14		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/12:25:14		Entered in function encode categorical Features!!
+2021-10-22/12:25:14		Error occurred in encode category features features
+2021-10-22/12:26:45		Entered in removing extra space function !!
+2021-10-22/12:26:45		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/12:26:45		Entered in seperate independent and dependent function !!
+2021-10-22/12:26:45		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/12:26:45		Entered in function column with missing value !!
+2021-10-22/12:26:45		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/12:26:45		Entered in removing unwanted features function !!
+2021-10-22/12:26:45		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/12:26:45		Entered in function compute outliars !!
+2021-10-22/12:26:45		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/12:26:45		Entered in function scale Down Numeric Features!!
+2021-10-22/12:26:45		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/12:26:45		Entered in function encode categorical Features!!
+2021-10-22/12:26:45		Error occurred in encode category features features
+2021-10-22/12:34:40		Entered in removing extra space function !!
+2021-10-22/12:34:40		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/12:34:40		Entered in seperate independent and dependent function !!
+2021-10-22/12:34:40		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/12:34:40		Entered in function column with missing value !!
+2021-10-22/12:34:40		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/12:34:40		Entered in removing unwanted features function !!
+2021-10-22/12:34:40		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/12:34:40		Entered in function compute outliars !!
+2021-10-22/12:34:40		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/12:34:40		Entered in function scale Down Numeric Features!!
+2021-10-22/12:34:40		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/12:34:40		Entered in function encode categorical Features!!
+2021-10-22/12:35:46		Entered in removing extra space function !!
+2021-10-22/12:35:46		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/12:35:46		Entered in seperate independent and dependent function !!
+2021-10-22/12:35:46		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/12:35:46		Entered in function column with missing value !!
+2021-10-22/12:35:46		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/12:35:46		Entered in removing unwanted features function !!
+2021-10-22/12:35:46		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/12:35:46		Entered in function compute outliars !!
+2021-10-22/12:35:46		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/12:35:46		Entered in function scale Down Numeric Features!!
+2021-10-22/12:35:46		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/12:35:46		Entered in function encode categorical Features!!
+2021-10-22/12:36:37		Entered in removing extra space function !!
+2021-10-22/12:36:37		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/12:36:37		Entered in seperate independent and dependent function !!
+2021-10-22/12:36:37		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/12:36:37		Entered in function column with missing value !!
+2021-10-22/12:36:37		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/12:36:37		Entered in removing unwanted features function !!
+2021-10-22/12:36:37		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/12:36:37		Entered in function compute outliars !!
+2021-10-22/12:36:37		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/12:36:37		Entered in function scale Down Numeric Features!!
+2021-10-22/12:36:37		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/12:36:37		Entered in function encode categorical Features!!
+2021-10-22/12:36:38		Entered in function handle balanced dataset !!
+2021-10-22/12:36:39		Exiting Handle Imbalanced Dataset,Handle Imbalanced dataset successfully
+2021-10-22/13:13:04		Entered in removing extra space function !!
+2021-10-22/13:13:04		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/13:13:04		Entered in seperate independent and dependent function !!
+2021-10-22/13:13:04		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/13:13:04		Entered in function column with missing value !!
+2021-10-22/13:13:04		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/13:13:04		Entered in removing unwanted features function !!
+2021-10-22/13:13:04		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/13:13:04		Entered in function compute outliars !!
+2021-10-22/13:13:04		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/13:13:04		Entered in function scale Down Numeric Features!!
+2021-10-22/13:13:04		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/13:13:04		Entered in function encode categorical Features!!
+2021-10-22/13:14:28		Entered in removing extra space function !!
+2021-10-22/13:14:29		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/13:14:29		Entered in seperate independent and dependent function !!
+2021-10-22/13:14:29		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/13:14:29		Entered in function column with missing value !!
+2021-10-22/13:14:29		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/13:14:29		Entered in removing unwanted features function !!
+2021-10-22/13:14:29		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/13:14:29		Entered in function compute outliars !!
+2021-10-22/13:14:29		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/13:14:29		Entered in function scale Down Numeric Features!!
+2021-10-22/13:14:29		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/13:14:29		Entered in function encode categorical Features!!
+2021-10-22/13:14:29		Entered in function handle balanced dataset !!
+2021-10-22/13:14:30		Exiting Handle Imbalanced Dataset,Handle Imbalanced dataset successfully
+2021-10-22/17:31:17		Entered in removing extra space function !!
+2021-10-22/17:31:17		Exiting remove extra space function,removed extra spaces successfully!!
+2021-10-22/17:31:17		Entered in seperate independent and dependent function !!
+2021-10-22/17:31:17		Exiting seperate ndependent and dependent function,function run successfully!!
+2021-10-22/17:31:17		Entered in function column with missing value !!
+2021-10-22/17:31:17		Exiting columns with missing value function,get columns names successfully!!
+2021-10-22/17:31:17		Entered in removing unwanted features function !!
+2021-10-22/17:31:17		Exiting remove unwanted features function,remove unwanted features successfully!!
+2021-10-22/17:31:17		Entered in function compute outliars !!
+2021-10-22/17:31:17		Exiting outliarsCompute,replaced outliars successfully
+2021-10-22/17:31:17		Entered in function scale Down Numeric Features!!
+2021-10-22/17:31:17		Exiting scale down numeric features Dataset,scale features successfully
+2021-10-22/17:31:17		Entered in function encode categorical Features!!
+2021-10-22/17:31:17		Entered in function handle balanced dataset !!
+2021-10-22/17:31:19		Exiting Handle Imbalanced Dataset,Handle Imbalanced dataset successfully
