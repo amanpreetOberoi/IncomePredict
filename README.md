@@ -5,10 +5,10 @@ This project aims to show the usage of machine learning and data science techniq
 
 ## Appendix
 - [Acknowledgements](Acknowledgements)
-- [About Data](About Data)
+- [About_Data](About Data)
 - [Motivation](Motivation)
 - [Workflow](Workflow)
-- [Technologies Used ](Technologies Used )
+- [Technologies_Used ](Technologies Used )
 - [Demo](Demo)
 - [Environment Variables](Environment Variables)
 - [Deployment on Heroku](Deployment on Heroku)
