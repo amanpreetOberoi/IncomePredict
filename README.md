@@ -188,7 +188,7 @@ A DPR is a final, detailed appraisal report on the project and a blue print for 
 - [GitHub](https://www.https://github.com/jsjosan3)
 - [Linkedin](https://www.linkedin.com/in/lovepreet-singh-189593154/)
 #### Amanpreet Oberoi
-- apo28june@gmail.com 
+- oberoiamanpreet28@gmail.com 
 - [GitHib](https://github.com/amanpreetOberoi)
 - [Linkedin](https://www.linkedin.com/in/amanpreet-oberoi-031858160/)
 
