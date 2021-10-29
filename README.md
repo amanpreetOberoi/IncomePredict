@@ -4,24 +4,30 @@
 This project aims to show the usage of machine learning and data science techniques in providing a solution to the income equality problem
 
 ## Appendix
-- [Acknowledgements](Acknowledgements)
-- [About_Data](About Data)
-- [Motivation](Motivation)
-- [Workflow](Workflow)
-- [Technologies_Used ](Technologies Used )
-- [Demo](Demo)
-- [Environment Variables](Environment Variables)
-- [Deployment on Heroku](Deployment on Heroku)
-- [Documentation](Documentation)
-- [Authors](Authors)
-- [FAQ](FAQ)
+
+* [Acknowledgements](#Acknowledgements)
+* [About_Data](#About_Data)
+* [Motivation](#Motivation)
+* [Workflow](#Workflow)
+* [Technologies_Used](#Technologies_Used)
+* [Demo](#Demo)
+* [Environment_Variables](#Environment_Variables)
+* [Deployment_on_Heroku](#Deployment_on_Heroku)
+* [Documentation](#Documentation)
+* [Authors](#Authors)
+* [FAQ](#FAQ)
 
 
 ## Acknowledgements
 
  - The prominent inequality of wealth and income is a huge concern especially in the World. The likelihood of diminishing poverty is one valid reason to reduce the world's surging level of economic inequality. The principle of universal moral equality ensures sustainable development and improve the economic stability of a nation. Governments in different countries have been trying their best to address this problem and provide an optimal solution. This study aims to show the usage of machine learning and data mining techniques in providing a solution to the income equality problem. The UCI Adult Dataset has been used for the purpose. Classification has been done to predict whether a person's yearly income in US falls in the income category of either greater than 50K Dollars or less equal to 50K Dollars category based on a certain set of attributes. 
+
   
-## About Data
+
+
+
+  
+## About_Data
 #### Attribute Information:
 
 Listing of attributes:
@@ -97,28 +103,18 @@ That’s why before building this model we followed complete process of Machine 
 #### Re-usability
 We have done programming of this project in Modular Fashion in which various classes are made so that it should be reusable. So that anyone can add and contribute without facing any problems.
 
-## Technologies Used 
+## Technologies_Used 
 
-##### Python	
-high-level computer programming language used to develop the project 
-##### Py-Charm	
-an integrated development IDE used in computer programming, for the Python language
-##### Pandas	
-Open source data analysis and manipulation tool, for the Python programming language.
-##### Numpy	
-Python library used for working with arrays
-##### Matplotlib/Seaborn	
-For data visualization and graphical plotting library for Python
-##### Scikit-Learn	
-Machine learning library used for the Python programming language. It features various classification, regression and clustering algorithms
-##### Flask	
-A web applications  framework, it's a Python module that lets you develop web applications easily
-##### HTML/CSS	
-Are two of the core technologies used for building Web pages. HTML provides the structure of the page, CSS the layout for a variety of devices.
-##### Heroku	
-Is used as a platform as a service (PaaS) that build, run, and operate applications entirely in the cloud 
-##### GitHub	
-Web-based interface that used Git for the open source version control system 
+###### Python: high-level computer programming language used to develop the project 
+###### Py-Charm:	an integrated development IDE used in computer programming, for the Python language
+###### Pandas: Open source data analysis and manipulation tool, for the Python programming language.
+###### Numpy: Python library used for working with arrays
+###### Matplotlib/Seaborn:	For data visualization and graphical plotting library for Python
+###### Scikit-Learn:	Machine learning library used for the Python programming language. It features various classification, regression and clustering algorithms
+###### Flask:	A web applications  framework, it's a Python module that lets you develop web applications easily
+###### HTML/CSS: 	Are two of the core technologies used for building Web pages. HTML provides the structure of the page, CSS the layout for a variety of devices.
+###### Heroku:	Is used as a platform as a service (PaaS) that build, run, and operate applications entirely in the cloud 
+###### GitHub:	Web-based interface that used Git for the open source version control system 
 
 
 
@@ -130,11 +126,16 @@ Web-based interface that used Git for the open source version control system
 ## Demo
 To run application on personal devices :
 
-Application link
+- Application link
 [http://incomeprediction190.herokuapp.com](http://incomeprediction190.herokuapp.com)
 
 
-## Environment Variables
+- click to Watch Demo Video of Application:
+
+[![Watch the video](https://www.linkpicture.com/q/Thumbnail_3.png)](https://youtu.be/tREp4qPUjkY?v=tREp4qPUjkY)
+
+
+## Environment_Variables
 
 To run this project, you will need to add the following environment variables to your .env file :
 
@@ -156,7 +157,7 @@ For more refrence regarding Managing Anconda environment [click here](https://co
 
 
   
-## Deployement on Heroku
+## Deployement_on_Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
@@ -182,6 +183,10 @@ A DPR is a final, detailed appraisal report on the project and a blue print for 
 [Wireframe Document](https://drive.google.com/file/d/1bjzlT1fF4XzGNDT80tsraqHFcTIiEmdS/view?usp=sharing)
 
  wireframe is a blueprint of a page. It lays an outline of the page structure, information hierarchy, and user flow through the application. 
+
+[Architecture Desgine Document](https://drive.google.com/file/d/1O-903WdUwFB7J39LvL32hxrRBeSTV8qu/view?usp=sharing)
+
+ documentation of the design factors and the choices the architect has made in the design to satisfy the business and technical requirements.
 ## Authors
 #### Lovepreet Singh
 - jsjosan3@gmail.com
@@ -195,16 +200,16 @@ A DPR is a final, detailed appraisal report on the project and a blue print for 
 ## FAQ
 
 #### Q1) What’s the source of data?
- The data for training is taken from the internship portal of ineuron.ai., but along with that data is also avialable on Kaggle.com
+##### The data for training is taken from the internship portal of ineuron.ai., but along with that data is also avialable on Kaggle.com
 
 ####  Q 2) What was the type of data?
- The data was the combination of numerical and Categorical values.
+##### The data was the combination of numerical and Categorical values.
 
 #### Q 3) What’s the complete flow you followed in this Project?
- Refer slide 4th for better Understanding
+##### Refer slide 4th for better Understanding
 
 #### Q 4) How logs are managed?
- We are using different logs as per the steps that we follow invalidation and  modeling like File validation log , Data 	Insertion Model Training log , prediction log  etc.
+##### We are using different logs as per the steps that we follow invalidation and  modeling like File validation log , Data 	Insertion Model Training log , prediction log  etc.
 
 #### Q 6) What techniques were you using for data pre-processing?
 - Removing unwanted attributes
