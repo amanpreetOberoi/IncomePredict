@@ -77,7 +77,7 @@ That’s why before building this model we followed complete process of Machine 
 
 6.	Then we handled categorical variable by performing One-Hot encoding rather than country columns, in country 98% of data refers to United States, so we differentiate data into two entities USA and Non-USA.   .
 
-7.	The data is highly imbalanced then we balanced the dataset by using standard scaler.
+7.	The data is highly imbalanced then we balanced the dataset by using SMOTE.
 
 8.	Then we split the whole data set train-test split. And  split into  X_train, X_test, y-train and y_test.  
 9.	After performing above step I was ready for model training. In this step, I trained my dataset on different classification based supervised Machine Learning Algorithm (Logistic Regressions, Random-Forest Classification, XGBoost Classifier and Gaussian NB). After training the dataset on different algorithms I got highest   accuracy of 86% on XGBoost Classifier
