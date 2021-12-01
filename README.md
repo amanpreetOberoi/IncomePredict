@@ -80,7 +80,7 @@ That’s why before building this model we followed complete process of Machine 
 7.	The data is highly imbalanced then we balanced the dataset by using SMOTE.
 
 8.	Then we split the whole data set train-test split. And  split into  X_train, X_test, y-train and y_test.  
-9.	After performing above step I was ready for model training. In this step, I trained my dataset on different classification based supervised Machine Learning Algorithm (Logistic Regressions, Random-Forest Classification, XGBoost Classifier and Gaussian NB). After training the dataset on different algorithms I got highest   accuracy of 90% on XGBoost Classifier
+9.	After performing above step I was ready for model training. In this step, I trained my dataset on different classification based supervised Machine Learning Algorithm (Logistic Regressions, Random-Forest Classification, XGBoost Classifier and Gaussian NB). After training the dataset on different algorithms I got highest   accuracy of 86% on XGBoost Classifier
 
 10.	After that I applied hyper-parameter tuning on all model which I have described above. Here also I got highest accuracy of 90% on test dataset by    same XGBoost Classifier.
     ```bash
